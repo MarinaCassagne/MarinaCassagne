@@ -43,6 +43,6 @@ Je suis actuellement à la recherche d’une **immersion professionnelle (PMSMP)
 
 - ✉️ marina_cassagne@yahoo.fr  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marina-cassagne/)  
-- 📍 Basée à Saint-Félix-de-Lodez, mobile sur Montpellier et Béziers  
+- 📍 Basée à Saint-Félix-de-Lodez (34725), mobile sur Montpellier et Béziers  
 
 Merci pour votre visite ! 😊
