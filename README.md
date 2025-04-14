@@ -1,5 +1,5 @@
 👋 Bonjour, moi c’est Marina Cassagne !  
-🎯 Développeuse Front-End en reconversion, avec une sensibilité UX/UI  
+🎯 Développeuse Front-End en reconversion, avec une sensibilité UX/UI design  
 
 ---
 
@@ -7,7 +7,7 @@
 
 Je suis actuellement en reconversion vers le développement web, après **8 ans d’expérience en tant qu’assistante qualité** (secteurs : DMDIV et agroalimentaire) et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
 
-Je me forme activement au développement Front-End (HTML, CSS, JavaScript, Git...) avec une approche orientée UX/UI, via la plateforme OpenClassrooms.
+Je me forme activement au développement Front-End (HTML, CSS, JavaScript, Git...) avec une sensibilité pour l'UX/UI design, via la plateforme OpenClassrooms.
 
 Je suis actuellement à la recherche d’une **immersion professionnelle (PMSMP)** pour valider mon projet et découvrir concrètement les réalités du métier.  
 
