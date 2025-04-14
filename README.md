@@ -17,7 +17,7 @@ Je suis actuellement à la recherche d’une **immersion professionnelle (PMSMP)
 
 - ✅ Découvrez les métiers de développeur  
 - ✅ Utiliser la ligne de commande dans un terminal  
-- 🔄 Gérer du code avec Git et GitHub *(73 % complété)*  
+- ✅ Gérer du code avec Git et GitHub  
 - 🔄 Mettre en place votre environnement front-end *(40 % complété)*  
 - ⏳ Créer votre site web avec HTML5 et CSS3 *(0 %)*  
 
