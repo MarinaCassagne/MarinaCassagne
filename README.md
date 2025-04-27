@@ -22,7 +22,7 @@ Je suis actuellement à la recherche d’une **immersion professionnelle (PMSMP)
 - ⏳ Créer votre site web avec HTML5 et CSS3 *(0 %)*
   
 **Codecademy**
-- 🔄 Learn HTML
+- 🔄 Learn HTML *(50% complété)*
 - ⏳ Learn CSS
 - ⏳ Learn Javascript
 ---
