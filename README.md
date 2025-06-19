@@ -7,9 +7,9 @@
 
 Je suis actuellement en reconversion vers le développement web, après **8 ans d’expérience en tant qu’assistante qualité** (secteurs : DMDIV et agroalimentaire) et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
 
-Je me forme activement au développement Front-End (HTML, CSS, JavaScript, Git...), via la plateforme OpenClassrooms et Codecademy.
+Je me forme activement au développement Front-End (HTML, CSS, JavaScript, Git...).
 
-Je suis actuellement à la recherche d’une **immersion professionnelle (PMSMP)** pour valider mon projet et découvrir concrètement les réalités du métier.  
+Je suis actuellement en formation **Apple Foundation Program du 05/06/2025 au 04/07/2025** pour valider mon projet et découvrir concrètement les réalités du métier de UX/Ui Designer et développeur d'applications.  
 
 ---
 
@@ -25,15 +25,15 @@ Je suis actuellement à la recherche d’une **immersion professionnelle (PMSMP)
 <br>
 <a href="https://www.codecademy.com/profiles/MarinaCassagne">Lien de mon profil Codecademy<a>
 - ✅ Learn HTML
-- ⏳ Learn CSS
+- ✅  Learn CSS
 - ⏳ Learn Javascript
 ---
 
 ## 💻 Compétences techniques
 
-- **Langages :** HTML5, CSS3 *(en cours d’apprentissage)*  
-- **Outils :** Visual Studio Code, Git, GitHub  
-- **Design :** Adobe Photoshop  
+- **Langages :** HTML5, CSS3, Swuift UI,Swift 
+- **Outils :** Visual Studio Code, Git, GitHub, Xcode  
+- **Design :** Adobe Photoshop, Figma  
 - **Autres :** Trello, Teams, Pack Office
 
 ---
