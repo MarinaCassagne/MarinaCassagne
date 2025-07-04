@@ -31,16 +31,16 @@ Je suis actuellement en formation **Apple Foundation Program du 05/06/2025 au 04
 
 ## 💻 Compétences techniques
 
-- **Langages :** HTML5, CSS3, Swuift UI,Swift 
-- **Outils :** Visual Studio Code, Git, GitHub, Xcode  
-- **Design :** Adobe Photoshop, Figma  
-- **Autres :** Trello, Teams, Pack Office
+- **Langages :** HTML  CSS3  JavaScript SwuiftUI  Swift 
+- **Environnements & Outils de développement :** Visual Studio Code  XCode  Git/GitHub  
+- **Design UX/UI :** Figma  Adobe Photoshop
+- **Outils de gestion & collaboration :** Trello, Microsoft Teams, Discord, Pack Office (Word, Excel, PowerPoint), Keynote
 
 ---
 
 ## 🛠️ Exercices et petits projets
 
-📌 Je partage ici publiquement des exercices réalisés pendant ma formation ou en auto-apprentissage.  
+📌 Je partage ici publiquement des exercices réalisés pendant mes formations ou en auto-apprentissage.  
 *(Dépôts en cours de création)*
 
 ---
