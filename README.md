@@ -1,5 +1,5 @@
 👋 Bonjour, moi c’est Marina Cassagne !  
-🎯 Développeuse Front-End en reconversion, avec une sensibilité UX/UI design  
+🎯 En reconversion vers Développeuse Full Stack avec une sensibilité UX/UI design  
 
 ---
 
