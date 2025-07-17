@@ -14,7 +14,7 @@ Je me forme activement au développement Fullstak (HTML, CSS, JavaScript, PHP,..
 ## 📚 Formations
 
 **BeWeb — École Régionale du Numérique (Béziers)**
-- ⏳ Développeur Web et Web mobile du 08 septembre 2025 au 05 juin 2026
+- ⏳ **Développeur Web et Web mobile du 08 septembre 2025 au 05 juin 2026**
   Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2)
 
 **Simplon**
