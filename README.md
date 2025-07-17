@@ -7,13 +7,19 @@
 
 Je suis actuellement en reconversion vers le développement web, après **8 ans d’expérience en tant qu’assistante qualité** (secteurs : DMDIV et agroalimentaire) et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
 
-Je me forme activement au développement Front-End (HTML, CSS, JavaScript, Git...).
-
-Je suis actuellement en formation **Apple Foundation Program du 05/06/2025 au 04/07/2025** pour valider mon projet et découvrir concrètement les réalités du métier de UX/Ui Designer et développeur d'applications.  
+Je me forme activement au développement Fullstak (HTML, CSS, JavaScript, PHP,...).
 
 ---
 
-## 📚 Formations en cours 
+## 📚 Formations
+
+**BeWeb — École Régionale du Numérique (Béziers)**
+- ⏳ Développeur Web et Web mobile du 08 septembre 2025 au 05 juin 2026
+  Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2)
+
+**Simplon**
+- ✅ **Apple Foundation Program du 05 juin 2025 au 04 juillet 2025** — Promo : Foundation @SIM | TOU S4 | 25v — 🎯Valider mon projet et découvrir concrètement les réalités du métier de UX/UI Designer et développeur d'applications.
+
 **OpenClassrooms**
 - ✅ Découvrez les métiers de développeur  
 - ✅ Utiliser la ligne de commande dans un terminal  
@@ -27,6 +33,7 @@ Je suis actuellement en formation **Apple Foundation Program du 05/06/2025 au 04
 - ✅ Learn HTML
 - ✅  Learn CSS
 - ⏳ Learn Javascript
+
 ---
 
 ## 💻 Compétences techniques
