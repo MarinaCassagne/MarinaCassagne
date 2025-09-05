@@ -1,13 +1,15 @@
 👋 Bonjour, moi c’est Marina Cassagne !  
-🎯 En reconversion vers Développeuse Full Stack avec une sensibilité UX/UI Design
+🎯 En formation – Développeuse Web & Web Mobile
 
 ---
 
 ## 💡 À propos de moi
 
-Je suis actuellement en reconversion vers le développement web, après **8 ans d’expérience en tant qu’assistante qualité** (secteurs : DMDIV et agroalimentaire) et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
+Je suis actuellement en reconversion vers le développement web, 
+après **8 ans d’expérience en tant qu’assistante qualité** (secteurs : DMDIV et agroalimentaire) 
+et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
 
-Je me forme activement au développement Fullstak (HTML, CSS, JavaScript, PHP,...).
+Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,...).
 
 ---
 
