@@ -35,16 +35,18 @@ Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,
 <br>
 <a href="https://www.codecademy.com/profiles/MarinaCassagne">Lien de mon profil Codecademy<a>
 - ✅ Learn HTML
-- ✅  Learn CSS
+- ✅ Learn CSS
 - ⏳ Learn Javascript
 
 ---
 
 ## 💻 Compétences techniques
 
-- **Langages :** HTML  CSS3  JavaScript SwuiftUI  Swift 
-- **Environnements & Outils de développement :** Visual Studio Code  XCode  Git/GitHub  
-- **Design UX/UI :** Figma  Adobe Photoshop
+- **Langages :** HTML, CSS, JavaScript, SwiftUI/Swift, PHP
+- **Framework :** Symfony, Bootstrap, Flutter, Node.js 
+- **Librairie :** ReactJS
+- **Environnements & Outils de développement :** Visual Studio Code, XCode, Git/GitHub
+- **Design UX/UI :** Figma, Adobe Photoshop
 - **Outils de gestion & collaboration :** Trello, Microsoft Teams, Discord, Pack Office (Word, Excel, PowerPoint), Keynote
 
 ---
