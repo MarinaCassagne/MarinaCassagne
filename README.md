@@ -36,7 +36,7 @@ Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,
 <a href="https://www.codecademy.com/profiles/MarinaCassagne">Lien de mon profil Codecademy<a>
 - ✅ Learn HTML
 - ✅ Learn CSS
-- ⏳ Learn Javascript
+- ✅ Learn Javascript
 
 ---
 
