@@ -5,7 +5,7 @@
 
 ## 💡 À propos de moi
 
-Je suis actuellement en reconversion vers le développement web, 
+Je suis actuellement en reconversion vers le développement web et web mobile, 
 après **8 ans d’expérience en tant qu’assistante qualité** (secteurs : DMDIV et agroalimentaire) 
 et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
 
