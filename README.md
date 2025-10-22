@@ -16,14 +16,18 @@ Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,
 ## 📚 Formations
 
 **BeWeb — École Régionale du Numérique (Béziers)**
-- ⏳ **Développeur Web et Web mobile du 08 septembre 2025 au 05 juin 2026**
+- ⏳ **Développeur Web et Web mobile
+  Du 08 septembre 2025 au 05 juin 2026**
   Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2)
 
   📢 **RECHERCHE UN STAGE** 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸
-D𝘂 𝟬𝟵 𝗺𝗮𝗿𝘀 𝟮𝟬𝟮𝟲 𝗮𝘂 𝟬𝟳 𝗺𝗮𝗶 𝟮𝟬𝟮𝟲
+  D𝘂 𝟬𝟵 𝗺𝗮𝗿𝘀 𝟮𝟬𝟮𝟲 𝗮𝘂 𝟬𝟳 𝗺𝗮𝗶 𝟮𝟬𝟮𝟲
 
 **Simplon**
-- ✅ **Apple Foundation Program du 05 juin 2025 au 04 juillet 2025** — Promo : Foundation @SIM | TOU S4 | 25v — 🎯 Valider mon projet et découvrir concrètement les réalités du métier de UX/UI Designer et développeur d'applications.
+- ✅ **Apple Foundation Program
+  Du 05 juin 2025 au 04 juillet 2025**
+  Promo : Foundation @SIM | TOU S4 | 25v
+  🎯 Valider mon projet et découvrir concrètement les réalités du métier de UX/UI Designer et développeur d'applications.
 
 **OpenClassrooms**
 - ✅ Découvrez les métiers de développeur  
