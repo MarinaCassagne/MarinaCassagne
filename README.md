@@ -64,7 +64,8 @@ Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,
 
 ## 📫 Me contacter
 
-- ✉️ marina_cassagne@yahoo.fr  
+- ✉️ marina_cassagne@yahoo.fr
+- 📱 06 15 16 26 86
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marina-cassagne/)  
 - 📍 Basée à Saint-Félix-de-Lodez (34725), mobile sur Montpellier et Béziers  
 
