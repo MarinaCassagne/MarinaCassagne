@@ -36,7 +36,7 @@ Du 09 mars au 07 mai 2026**
   Du 08 septembre 2025 au 05 juin 2026** </br>
   Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2)
 
-**Simplon — Apple Foundation Program **
+**Simplon — Apple Foundation Program**
 - ✅ **Développeuse d'applications et UX/UI Designer </br>
   Du 05 juin 2025 au 04 juillet 2025** </br>
   Promo : Foundation @SIM | TOU S4 | 25v </br>
