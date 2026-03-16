@@ -8,7 +8,7 @@
 Je suis actuellement en reconversion vers le développement web et web mobile, 
 après **8 ans d’expérience en tant qu’assistante qualité** :
 * 5 ans en santé dans les Dispositifs Médicaux de Diagnostics In Vitro,
-* 3 ans en agroalimentaire
+* 3 ans en agroalimentaire </br>
 et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
 
 Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,...).
