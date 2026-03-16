@@ -6,17 +6,19 @@
 ## 💡 À propos de moi
 
 Je suis actuellement en reconversion vers le développement web et web mobile, 
-après **8 ans d’expérience en tant qu’assistante qualité** (secteurs : DMDIV et agroalimentaire) 
+après **8 ans d’expérience en tant qu’assistante qualité** :
+* 5 ans en santé dans les Dispositifs Médicaux de Diagnostics In Vitro,
+* 3 ans en agroalimentaire
 et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
 
 Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,...).
 
-📢 **RECHERCHE ALTERNANCE CDA** </br>
-**Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** </br>
-**Septembre 𝟮𝟬𝟮𝟲**
+📢 **RECHERCHE ALTERNANCE </br>
+🚀 Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** </br>
+📆 **Septembre 𝟮𝟬𝟮𝟲**
 
 ---
-## 💻Expériences professionnelles
+## 💻 Expériences professionnelles
 
 **INSEPARABLE SAS (Montpellier)**
 - ⏳ **Stage Développeuse Web et Web Mobile </br>
@@ -30,11 +32,11 @@ Du 09 mars au 07 mai 2026**
   Du 08 septembre 2025 au 05 juin 2026** </br>
   Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2)
 
-**Simplon**
-- ✅ **Apple Foundation Program </br>
+**Simplon — Apple Foundation Program **
+- ✅ **Développeuse d'applications et UX/UI Designer </br>
   Du 05 juin 2025 au 04 juillet 2025** </br>
   Promo : Foundation @SIM | TOU S4 | 25v </br>
-  🎯 Valider mon projet et découvrir concrètement les réalités du métier de UX/UI Designer et développeur d'applications.
+  🎯 Valider mon projet et découvrir concrètement les réalités du métier de UX/UI Designer et développeuse d'applications.
 
 **OpenClassrooms**
 - ✅ Découvrez les métiers de développeur  
