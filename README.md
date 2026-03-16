@@ -10,29 +10,29 @@
 Je suis actuellement en reconversion vers le développement web et web mobile, 
 après **8 ans d’expérience en tant qu’assistante qualité** :
 
-* 5 ans en santé dans les Dispositifs Médicaux de Diagnostics In Vitro,
-* 3 ans en agroalimentaire </br>
+* 🧪 5 ans en santé dans les Dispositifs Médicaux de Diagnostics In Vitro,
+* 🐖 3 ans en agroalimentaire </br>
 
 et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
 
 Je me forme activement.
 
 📢 **RECHERCHE ALTERNANCE </br>
-🚀 Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** </br>
+Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** </br>
 📆 **Septembre 𝟮𝟬𝟮𝟲**
 
 ---
 ## 💻 Expériences professionnelles
 
 **INSEPARABLE SAS (Montpellier)**
-- ⏳ **Stage Développeuse Web et Web Mobile </br>
+- 🔄 **Stage Développeuse Web et Web Mobile </br>
 Du 09 mars au 07 mai 2026**
 
 ---
 ## 📚 Formations
 
 **BeWeb — École Régionale du Numérique (Béziers)**
-- ⏳ **Développeuse Web et Web Mobile </br>
+- 🔄 **Développeuse Web et Web Mobile </br>
   Du 08 septembre 2025 au 05 juin 2026** </br>
   Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2)
 
@@ -48,9 +48,9 @@ Du 09 mars au 07 mai 2026**
 - ✅ Gérer du code avec Git et GitHub  
 - 🔄 Mettre en place votre environnement front-end *(40 % complété)*
 - ⏳ Créer votre site web avec HTML5 et CSS3 *(0 %)*
-- ⏳ Développement — Concevez votre site web avec PHP et MySQL *(52 % complété)*
-- ⏳ Développement — Adoptez les API REST pour vos projets web *(63 % complété)*
-- ⏳ Systèmes & Réseaux — Optimisez votre déploiement en créant des conteneurs avec Docker *(27 % complété)*
+- 🔄 Développement — Concevez votre site web avec PHP et MySQL *(52 % complété)*
+- 🔄 Développement — Adoptez les API REST pour vos projets web *(63 % complété)*
+- 🔄 Systèmes & Réseaux — Optimisez votre déploiement en créant des conteneurs avec Docker *(27 % complété)*
   
 **Codecademy**
 <br>
