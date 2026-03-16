@@ -11,17 +11,24 @@ et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en m
 
 Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,...).
 
----
+📢 **RECHERCHE ALTERNANCE CDA** </br>
+Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications </br>
+Septembre 𝟮𝟬𝟮𝟲
 
+---
+## 💻Expériences professionnelles
+
+**INSEPARABLE SAS (Montpellier)**
+- ⏳ **Stage Développeuse Web et Web Mobile
+Du 09 mars au 07 mai 2026**
+
+---
 ## 📚 Formations
 
 **BeWeb — École Régionale du Numérique (Béziers)**
-- ⏳ **Développeur Web et Web mobile
+- ⏳ **Développeuse Web et Web Mobile
   Du 08 septembre 2025 au 05 juin 2026**
   Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2)
-
-  📢 **RECHERCHE UN STAGE** 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸
-  D𝘂 𝟬𝟵 𝗺𝗮𝗿𝘀 𝟮𝟬𝟮𝟲 𝗮𝘂 𝟬𝟳 𝗺𝗮𝗶 𝟮𝟬𝟮𝟲
 
 **Simplon**
 - ✅ **Apple Foundation Program
@@ -45,7 +52,7 @@ Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,
 
 ---
 
-## 💻 Compétences techniques
+## 💻 Technologies
 
 - **Langages :** HTML, CSS, JavaScript, SwiftUI/Swift, PHP
 - **Framework :** Symfony, Bootstrap, Flutter, Node.js 
