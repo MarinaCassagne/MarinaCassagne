@@ -46,8 +46,11 @@ Du 09 mars au 07 mai 2026**
 - ✅ Découvrez les métiers de développeur  
 - ✅ Utiliser la ligne de commande dans un terminal  
 - ✅ Gérer du code avec Git et GitHub  
-- 🔄 Mettre en place votre environnement front-end *(40 % complété)*  
+- 🔄 Mettre en place votre environnement front-end *(40 % complété)*
 - ⏳ Créer votre site web avec HTML5 et CSS3 *(0 %)*
+- ⏳ Développement — Concevez votre site web avec PHP et MySQL *(52 % complété)*
+- ⏳ Développement — Adoptez les API REST pour vos projets web *(63 % complété)*
+- ⏳ Systèmes & Réseaux — Optimisez votre déploiement en créant des conteneurs avec Docker *(27 % complété)*
   
 **Codecademy**
 <br>
