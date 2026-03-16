@@ -1,5 +1,7 @@
-👋 Bonjour, moi c’est Marina Cassagne !  
-🎯 En formation – Développeuse Web & Web Mobile
+👋 Bonjour, moi c’est Marina Cassagne !
+
+🎯 En formation – Développeuse Web & Web Mobile </br>
+École Régionale du Numérique BeWeb
 
 ---
 
@@ -13,7 +15,7 @@ après **8 ans d’expérience en tant qu’assistante qualité** :
 
 et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
 
-Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,...).
+Je me forme activement.
 
 📢 **RECHERCHE ALTERNANCE </br>
 🚀 Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** </br>
