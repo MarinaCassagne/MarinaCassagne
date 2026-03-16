@@ -12,28 +12,28 @@ et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en m
 Je me forme activement au développement Full Stack (HTML, CSS, JavaScript, PHP,...).
 
 📢 **RECHERCHE ALTERNANCE CDA** </br>
-Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications </br>
-Septembre 𝟮𝟬𝟮𝟲
+**Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** </br>
+**Septembre 𝟮𝟬𝟮𝟲**
 
 ---
 ## 💻Expériences professionnelles
 
 **INSEPARABLE SAS (Montpellier)**
-- ⏳ **Stage Développeuse Web et Web Mobile
+- ⏳ **Stage Développeuse Web et Web Mobile </br>
 Du 09 mars au 07 mai 2026**
 
 ---
 ## 📚 Formations
 
 **BeWeb — École Régionale du Numérique (Béziers)**
-- ⏳ **Développeuse Web et Web Mobile
-  Du 08 septembre 2025 au 05 juin 2026**
+- ⏳ **Développeuse Web et Web Mobile </br>
+  Du 08 septembre 2025 au 05 juin 2026** </br>
   Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2)
 
 **Simplon**
-- ✅ **Apple Foundation Program
-  Du 05 juin 2025 au 04 juillet 2025**
-  Promo : Foundation @SIM | TOU S4 | 25v
+- ✅ **Apple Foundation Program </br>
+  Du 05 juin 2025 au 04 juillet 2025** </br>
+  Promo : Foundation @SIM | TOU S4 | 25v </br>
   🎯 Valider mon projet et découvrir concrètement les réalités du métier de UX/UI Designer et développeur d'applications.
 
 **OpenClassrooms**
@@ -73,7 +73,7 @@ Du 09 mars au 07 mai 2026**
 
 - ✉️ marina_cassagne@yahoo.fr
 - 📱 06 15 16 26 86
-- 🔗 [LinkedIn](https://www.linkedin.com/in/marina-cassagne/)  
+- 🔗 [Mon profil LinkedIn](https://www.linkedin.com/in/marina-cassagne/)  
 - 📍 Basée à Saint-Félix-de-Lodez (34725), mobile sur Montpellier et Béziers  
 
 Merci pour votre visite ! 😊
