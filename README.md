@@ -15,7 +15,7 @@ après **8 ans d’expérience** en tant qu’**Assistante qualité** :
 
 et **5 ans d’expérience** en tant que **Technicienne de laboratoire d'analyses médicales**.
 
-Je me forme activement.
+Toujours en train d'apprendre, j'aime saisir chaque occasion d'échanger avec des passionné·e·s de la tech lors des meetups et événements locaux à Montpellier, pour élargir mon réseau et continuer ma montée en compétences.
 
 📢 **RECHERCHE ALTERNANCE </br>
 Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** </br>
