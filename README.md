@@ -7,13 +7,13 @@
 
 ## 💡 À propos de moi
 
-Je suis actuellement en reconversion vers le développement web et web mobile, 
-après **8 ans d’expérience en tant qu’assistante qualité** :
+Je suis actuellement en reconversion vers le **développement web et web mobile**, </br> 
+après **8 ans d’expérience** en tant qu’**Assistante qualité** :
 
-* 🧪 5 ans en santé dans les Dispositifs Médicaux de Diagnostics In Vitro,
-* 🐖 3 ans en agroalimentaire </br>
+* 🧪 **5 ans** en **Santé** dans les **Dispositifs Médicaux de Diagnostics In Vitro**,
+* 🐖 **3 ans** en **Agroalimentaire** </br>
 
-et **5 ans en tant que technicienne de laboratoire d'analyses médicales** (en milieu hospitalier et en laboratoire privé).
+et **5 ans d’expérience** en tant que **Technicienne de laboratoire d'analyses médicales**.
 
 Je me forme activement.
 
