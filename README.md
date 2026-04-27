@@ -19,7 +19,7 @@ Toujours en train d'apprendre, j'aime saisir chaque occasion d'échanger avec de
 
 📢 **RECHERCHE ALTERNANCE </br>
 Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** </br>
-📆 **Septembre 𝟮𝟬𝟮𝟲**
+📆 **Octobre 𝟮𝟬𝟮𝟲**
 
 ---
 ## 💻 Expériences professionnelles
