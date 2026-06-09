@@ -28,14 +28,14 @@ Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** 
 Du 08 juin au 10 juillet 2026**
 
 **INSEPARABLE SAS (Montpellier)**
-- 🔄 **Stage Développeuse Web et Web Mobile </br>
+- ✅ **Stage Développeuse Web et Web Mobile </br>
 Du 09 mars au 07 mai 2026**
 
 ---
 ## 📚 Formations
 
 **BeWeb — École Régionale du Numérique (Béziers)**
-- 🔄 **Développeuse Web et Web Mobile </br>
+- ✅ **Développeuse Web et Web Mobile </br>
   Du 08 septembre 2025 au 05 juin 2026** </br>
   Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2)
 
