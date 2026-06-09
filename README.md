@@ -1,13 +1,13 @@
 👋 Bonjour, moi c’est Marina Cassagne !
 
-🎯 En formation – Développeuse Web & Web Mobile </br>
+🎯 Développeuse Web & Web Mobile </br>
 École Régionale du Numérique BeWeb
 
 ---
 
 ## 💡 À propos de moi
 
-Je suis actuellement en reconversion vers le **développement web et web mobile**, </br> 
+Je suis actuellement Développeuse Web et Web Mobile à la recherche d'une alternance Conceptrice Développeuse d'Applications, </br> 
 après **8 ans d’expérience** en tant qu’**Assistante qualité** :
 
 * 🧪 **5 ans** en **Santé** dans les **Dispositifs Médicaux de Diagnostics In Vitro**,
@@ -23,6 +23,9 @@ Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** 
 
 ---
 ## 💻 Expériences professionnelles
+**INSEPARABLE SAS (Montpellier)**
+- 🔄 **PMSMP Développeuse Web et Web Mobile </br>
+Du 08 juin au 10 juillet 2026**
 
 **INSEPARABLE SAS (Montpellier)**
 - 🔄 **Stage Développeuse Web et Web Mobile </br>
