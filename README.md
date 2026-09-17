@@ -63,32 +63,32 @@ Du 09 mars au 07 mai 2026**
 
 ## 💻 Technologies
 
-**FRONT-END**
-HTML5 CSS3 JavaScript DOM
-React Bootstrap
+**FRONT-END** </br>
+HTML5 CSS3 JavaScript DOM </br>
+React Bootstrap </br>
 
-**BACK-END**
-PHP Symfony Node.js NestJS
-TypeScript MikroORM Doctrine SQL
+**BACK-END** </br>
+PHP Symfony Node.js NestJS </br>
+TypeScript MikroORM Doctrine SQL </br>
 
-**BASE DE DONNÉES**
-MySQL PostgreSQL MySQL Workbench
-phpMyAdmin DbGate
+**BASE DE DONNÉES** </br>
+MySQL PostgreSQL MySQL Workbench </br>
+phpMyAdmin DbGate </br>
 
-**UX / UI DESIGN**
-Figma (Design, FigJam) Photoshop
+**UX / UI DESIGN** </br>
+Figma (Design, FigJam) Photoshop </br>
 
-**OUTILS**
-Git GitHub GitLab Docker
-VS Code Claude Trello 
-Teams Discord
-Pack Office (Word, Excel, PowerPoint), Keynote
+**OUTILS** </br>
+Git GitHub GitLab Docker </br>
+VS Code Claude Trello </br>
+Teams Discord </br>
+Pack Office (Word, Excel, PowerPoint), Keynote </br>
 
-**IOS**
-Swift SwiftUI Xcode
+**IOS** </br>
+Swift SwiftUI Xcode </br>
 
-**LANGUE**
-Anglais B1 écrit / A2 oral
+**LANGUE** </br>
+Anglais B1 écrit / A2 oral </br>
 
 ---
 
