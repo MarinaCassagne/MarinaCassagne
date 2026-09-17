@@ -1,13 +1,9 @@
 👋 Bonjour, moi c’est Marina Cassagne !
-
-🎯 Développeuse Web & Web Mobile </br>
-École Régionale du Numérique BeWeb
-
 ---
 
 ## 💡 À propos de moi
 
-Je suis actuellement Développeuse Web et Web Mobile à la recherche d'une alternance Conceptrice Développeuse d'Applications, </br> 
+Je suis actuellement **Développeuse Web et Web Mobile**, à la recherche d'une alternance Conceptrice Développeuse d'Applications, </br> 
 après **8 ans d’expérience** en tant qu’**Assistante qualité** :
 
 * 🧪 **5 ans** en **Santé** dans les **Dispositifs Médicaux de Diagnostics In Vitro**,
@@ -23,8 +19,9 @@ Conceptrice 𝗗𝗲́𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝘂𝘀𝗲 d'Applications** 
 
 ---
 ## 💻 Expériences professionnelles
+
 **INSEPARABLE SAS (Montpellier)**
-- 🔄 **PMSMP Développeuse Web et Web Mobile </br>
+- ✅ **PMSMP Développeuse Web et Web Mobile </br>
 Du 08 juin au 10 juillet 2026**
 
 **INSEPARABLE SAS (Montpellier)**
@@ -37,9 +34,9 @@ Du 09 mars au 07 mai 2026**
 **BeWeb — École Régionale du Numérique (Béziers)**
 - ✅ **Développeuse Web et Web Mobile </br>
   Du 08 septembre 2025 au 05 juin 2026** </br>
-  Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2)
+  Titre Professionnel RNCP 37674 — Niveau 5 (Bac+2) – Obtenu 🎉
 
-**Simplon — Apple Foundation Program**
+**Simplon Grand Sud Ouest — Apple Foundation Program**
 - ✅ **Développeuse d'applications et UX/UI Designer </br>
   Du 05 juin 2025 au 04 juillet 2025** </br>
   Promo : Foundation @SIM | TOU S4 | 25v </br>
@@ -66,12 +63,32 @@ Du 09 mars au 07 mai 2026**
 
 ## 💻 Technologies
 
-- **Langages :** HTML, CSS, JavaScript, SwiftUI/Swift, PHP
-- **Framework :** Symfony, Bootstrap, Flutter, Node.js 
-- **Librairie :** ReactJS
-- **Environnements & Outils de développement :** Visual Studio Code, XCode, Git/GitHub
-- **Design UX/UI :** Figma, Adobe Photoshop
-- **Outils de gestion & collaboration :** Trello, Microsoft Teams, Discord, Pack Office (Word, Excel, PowerPoint), Keynote
+**FRONT-END**
+HTML5 CSS3 JavaScript DOM
+React Bootstrap
+
+**BACK-END**
+PHP Symfony Node.js NestJS
+TypeScript MikroORM Doctrine SQL
+
+**BASE DE DONNÉES**
+MySQL PostgreSQL MySQL Workbench
+phpMyAdmin DbGate
+
+**UX / UI DESIGN**
+Figma (Design, FigJam) Photoshop
+
+**OUTILS**
+Git GitHub GitLab Docker
+VS Code Claude Trello 
+Teams Discord
+Pack Office (Word, Excel, PowerPoint), Keynote
+
+**IOS**
+Swift SwiftUI Xcode
+
+**LANGUE**
+Anglais B1 écrit / A2 oral
 
 ---
 
@@ -86,6 +103,7 @@ Du 09 mars au 07 mai 2026**
 - ✉️ marina_cassagne@yahoo.fr
 - 📱 06 15 16 26 86
 - 🔗 [Mon profil LinkedIn](https://www.linkedin.com/in/marina-cassagne/)  
-- 📍 Basée à Saint-Félix-de-Lodez (34725), mobile sur Montpellier et Béziers  
+- 📍 Basée à Saint-Félix-de-Lodez (34725), mobile sur Montpellier et Béziers
+- 🚗 Permis B | A – Véhiculée
 
 Merci pour votre visite ! 😊
